@@ -284,6 +284,11 @@ p {
   align-items: center;
 }
 
+picture {
+  width: 100%;
+  height: 100%;
+}
+
 .character-image img{
   height: 100%;
   width: 100%;
