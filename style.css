@@ -221,14 +221,6 @@ section.presentation {
   animation-delay: 13.5s;
 }
 
-picture{
-  width: 100%;
-  background-color: #fcf4f4;
-  height: 100%;
-  display: flex;
-  align-items: center;
-}
-
 .persons {
   margin-top: 10%;
   color: aliceblue;
